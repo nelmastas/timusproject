@@ -1,0 +1,13 @@
+{
+    "date": "2024-01-16T05:59:44.533Z",
+    "status": false,
+    "messages": [
+        {
+            "code": "AuthUserLoginERROR-36",
+            "description": "Wrong credentials. Please check your email or password."
+        }
+    ],
+    "results": [
+        
+    ]
+}
